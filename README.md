@@ -1,1 +1,0 @@
-# lawrencefritts.github.io
