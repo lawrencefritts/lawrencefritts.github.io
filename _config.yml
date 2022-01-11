@@ -34,12 +34,6 @@ plugins:
   - jekyll-remote-theme
 
 remote_theme: ngzhio/jekyll-them-hamilton
-
----
-layout: default
-comments: true
----
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
