@@ -18,14 +18,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Lawrence Articial Neurons
+title: Lawrence's Articial Neurons
 email: lawrencefritts@icloud.com
 description: >- # this means to ignore newlines until "baseurl:"
   This site will explore all things Machine Learning that I am working on or have accomplished.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+
+github_username:  lawrencefritts
 disqus: https-lawrencefritts-github-io
 # Build settings
 theme: minima
